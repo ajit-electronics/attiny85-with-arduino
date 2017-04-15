@@ -1,1 +1,1 @@
-# attiny85-with-https-www.google.de-search-client-safari-rls-en-q-arduino-ie-UTF-8-oe-UTF-8-gfe_rd-c
+#Programming attiny85 with Arduino-uno and Arduino-IDE.
